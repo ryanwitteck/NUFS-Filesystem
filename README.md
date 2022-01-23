@@ -1,7 +1,7 @@
 # NUFS-Filesystem
 This program allows a user to create and manipulate files and directories. We created 13 commands that mimic their Unix command counterpart. With this program, you are able to: create and delete files as well as directories, nest directories, read and write to files, resize files,  access the contents of a directory, and other abilities as well.
 
-A filesystem made with FUSE that can perform multiple operations on files and directories. The operations include:
+The operations include:
 nufs_access,
 nufs_getattr,
 nufs_readdir,
